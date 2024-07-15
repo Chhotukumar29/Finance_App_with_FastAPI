@@ -1,4 +1,5 @@
 # Finance_App_with_FastAPI
+![image](https://github.com/user-attachments/assets/f23cc0b5-c4a3-4a5c-97a5-4037c10d639d)
 
 ## Problem Statement:
 
@@ -21,7 +22,6 @@ Usage of the Finance App:
     Project Budgeting: Track expenses and incomes specific to different projects to stay within budget.
     Expense Allocation: Allocate expenses to specific categories to identify project costs accurately.
 
-![image](https://github.com/user-attachments/assets/f23cc0b5-c4a3-4a5c-97a5-4037c10d639d)
 
 #### 1. Creating the virtual environment
 ```
